@@ -1,0 +1,52 @@
+@charset "utf-8";
+.html{
+    margin: 0;
+    padding: 0;
+}
+
+
+.Welcome {
+   background-color: darkorange;
+	width: 100%;
+  height: 175px;
+padding: 5px;
+  margin: 10px;
+text-align: center;
+}
+
+.introduction {
+	background-color: yellow;
+	padding: 5px;
+    margin: 10px;
+	font-size: 14px;
+	width: 100%;
+}
+
+.Myinfo {
+	font-size: 19px;
+	margin:10px;
+	width: 100%;
+	padding: 5px;
+	color: whitesmoke;
+	text-align: justify;	
+}
+
+.Adminlisting {
+	margin:10px;
+	width: 100%;
+	padding: 5px;
+	color: whitesmoke;
+}
+
+.section1 {
+	margin:10px;
+	width: 100%;
+	padding: 5px;
+	color: whitesmoke;
+}
+.section2 {
+	margin:10px;
+	width: 100%;
+	padding: 5px;
+	color: whitesmoke;
+}
